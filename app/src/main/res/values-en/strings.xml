@@ -5,4 +5,7 @@
     <string name="numero_uno">First Number</string>
     <string name="numero_dos">Second Number</string>
     <string name="sumar">Sum</string>
+    <string name="limpiar">Clear</string>
+    <string name="error_numero_uno">Type the first number</string>
+    <string name="error_numero_dos">Type the second number</string>
 </resources>
