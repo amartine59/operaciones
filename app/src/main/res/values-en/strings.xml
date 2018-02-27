@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">operaciones</string>
+    <string name="titulo">Calculations</string>
+    <string name="numero_uno">First Number</string>
+    <string name="numero_dos">Second Number</string>
+    <string name="sumar">Sum</string>
+</resources>

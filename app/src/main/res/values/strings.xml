@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">operaciones</string>
+    <string name="titulo">OPERACIONES</string>
+    <string name="numero_uno">Número Uno</string>
+    <string name="numero_dos">Número Dos</string>
+    <string name="sumar">Sumar</string>
+</resources>
