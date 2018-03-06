@@ -8,4 +8,9 @@
     <string name="limpiar">Clear</string>
     <string name="error_numero_uno">Type the first number</string>
     <string name="error_numero_dos">Type the second number</string>
+    <string name="operacion">Calculation</string>
+    <string name="restar">Subtract</string>
+    <string name="multiplicar">Multiply</string>
+    <string name="dividir">Divide</string>
+    <string name="error_numero_tres">Can\'t divide by zero</string>
 </resources>
